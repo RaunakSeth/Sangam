@@ -25,4 +25,4 @@ This Unity executable is a testament to the collaborative efforts and technologi
 
 ## Video
 
-https://github.com/RaunakSeth/Sangam/blob/main/Recording%202024-05-19%20005845.mp4
+[![ScreenCapture](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaqhaoSZmO2w)](https://www.youtube.com/watch?v=aqhaoSZmO2w)
