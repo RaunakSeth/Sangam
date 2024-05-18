@@ -22,8 +22,7 @@ The project falls under Theme 2: **Extended Reality Solutions for Enhancing Pilg
 - **Awards:** Winning teams in each theme were awarded Rs. 1 Lakh for their innovative and impactful solutions.
 
 This Unity executable is a testament to the collaborative efforts and technological innovation fostered by the hackathon, aiming to significantly improve the management and governance of the Prayagraj Mahakumbh Mela 2025.
-## Screenshots
-<video width="640" height="480" controls>
-  <source src="Recording 2024-05-19 005845.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+## Video
+
+<video src="https://github.com/RaunakSeth/Sangam/blob/main/Recording%202024-05-19%20005845.mp4" width="300" />
