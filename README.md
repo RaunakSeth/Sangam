@@ -25,4 +25,6 @@ This Unity executable is a testament to the collaborative efforts and technologi
 
 ## Video
 
-<video src="https://github.com/RaunakSeth/Sangam/blob/main/Recording%202024-05-19%20005845.mp4" width="300" />
+<video width="320" height="240" controls>
+  <source src="https://github.com/RaunakSeth/Sangam/blob/main/Recording%202024-05-19%20005845.mp4" type="video/mp4">
+</video>
